@@ -1,0 +1,13 @@
+const myVariable = "Yawata";
+console.log(myVariable);
+console.log(myVariable.length) ;
+console.log(myVariable.charAt(5));
+console.log(myVariable.indexOf(5));
+console.log(myVariable.slice(4));
+console.log(myVariable.toUpperCase());
+console.log(myVariable.toLocaleLowerCase());
+console.log(myVariable.toLowerCase());
+console.log("object".length);
+console.log(myVariable.includes('div'));
+console.log(myVariable.split(','));
+console.log('yash is a good boy'.split(''));
